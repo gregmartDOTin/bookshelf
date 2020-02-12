@@ -19,3 +19,5 @@ Interaction of Color - Joseph Albers
 Pretty Much Everything - Draplin Design Co
 
 The Rust Programming Language - Steve Klabnik and Carol Nichols, with contributions from the Rust Community
+
+The Nature of Code - Daniel Shiffman
