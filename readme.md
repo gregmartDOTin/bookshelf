@@ -10,6 +10,8 @@ Code - Charles Petzold
 
 Redis in Action - Josiah L Carlson
 
+The C Programming Language Handbook - Flavio Copes
+
 ## On Deck
 
 The Last Lecture - Randy Pausch
