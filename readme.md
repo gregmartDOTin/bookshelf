@@ -8,9 +8,9 @@ Composing Software - Eric Elliott
 
 Code - Charles Petzold
 
-Redis in Action - Josiah L Carlson
-
 The C Programming Language Handbook - Flavio Copes
+
+The React Handbook - Flavio Copes
 
 ## On Deck
 
@@ -25,3 +25,7 @@ The Rust Programming Language - Steve Klabnik and Carol Nichols, with contributi
 The Nature of Code - Daniel Shiffman
 
 Automate the Boring Stuff - Al Sweigart
+
+Redis in Action - Josiah L Carlson
+
+You Don't Know JS series - Kyle Simpson
