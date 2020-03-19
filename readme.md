@@ -4,11 +4,11 @@
 
 Composing Software - Eric Elliott
 
+The C Programming Language Handbook - Flavio Copes
+
 ## In Progress
 
 Code - Charles Petzold
-
-The C Programming Language Handbook - Flavio Copes
 
 The React Handbook - Flavio Copes
 
