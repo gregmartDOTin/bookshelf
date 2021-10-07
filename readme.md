@@ -1,7 +1,12 @@
-# Bookshelf
-> A curated list of some of the books I've been reading
+# Bookshelf 📚
+> A curated list of books I've been reading
 
 ## 2021
 
-### Algorithms (MIT Press Essential Knowledge Series) - Panos Louridas
-An accessible introduction to algorithms, explaining not jssut what they are buut how they work, with examples from a wide range of application areas.
+Leopold, Aldo. 1966. _A Sand County Almanac with Essays on Conservation from Round River_. New York: Ballantine Books.
+
+🏞️
+
+Louridas, Panos. 2020. _Algorithms (MIT Press Essential Knowledge Series)_. Cambridge, MA: MIT Press.
+
+💻🧮
