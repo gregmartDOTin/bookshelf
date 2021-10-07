@@ -1,31 +1,7 @@
-# 2020 Bookshelf
+# Bookshelf
+> A curated list of some of the books I've been reading
 
-## Read
+## 2021
 
-Composing Software - Eric Elliott
-
-The C Programming Language Handbook - Flavio Copes
-
-## In Progress
-
-Code - Charles Petzold
-
-The React Handbook - Flavio Copes
-
-## On Deck
-
-The Last Lecture - Randy Pausch
-
-Interaction of Color - Joseph Albers
-
-Pretty Much Everything - Draplin Design Co
-
-The Rust Programming Language - Steve Klabnik and Carol Nichols, with contributions from the Rust Community
-
-The Nature of Code - Daniel Shiffman
-
-Automate the Boring Stuff - Al Sweigart
-
-Redis in Action - Josiah L Carlson
-
-You Don't Know JS series - Kyle Simpson
+### Algorithms (MIT Press Essential Knowledge Series) - Panos Louridas
+An accessible introduction to algorithms, explaining not jssut what they are buut how they work, with examples from a wide range of application areas.
