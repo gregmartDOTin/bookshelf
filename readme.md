@@ -10,6 +10,11 @@ Key:
 - 🏞️: Outdoors
 - 🏛️: Philosophy
 
+## 2022
+
+Ohanian, Alexis. 2013. _Without Their Permission: How the 21st Century Will be Made, Not Managed_. New York, New York: Hachette Book Group.
+
+🕴️
 
 ## 2021
 
