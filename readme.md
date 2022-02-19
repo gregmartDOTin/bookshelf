@@ -17,6 +17,10 @@ Albers, Josef. 2013. _Interaction of Color: 50th Anniversary Edition_. New Haven
 
 🎨
 
+Kim, Gene, et al. 2013. _The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win_. Portland, Oregon: IT Revolution Press.
+
+🕴️
+
 Ohanian, Alexis. 2013. _Without Their Permission: How the 21st Century Will be Made, Not Managed_. New York, New York: Hachette Book Group.
 
 🕴️
